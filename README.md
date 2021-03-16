@@ -1,4 +1,3 @@
- 
 # Growth Mindset 
 **is a state of mind **where u can be a better virsion of your self to learn more and get better with your skills here is some of ***growth mind set*** be _like_:
 - Obstacles:when u face obstacle you will  get out of your confort zone in with more motivate
