@@ -6,3 +6,7 @@
 - Criticism:don't juge your self by where are u today u should compare your self to who u were befor
 - Success of others:when you have the growth mindset u will be able to work and cooperative with your Colleague
 ![Growth mindset](https://image.freepik.com/free-vector/businessman-holding-light-bulb-put-think-growth-mindset-different-fixed-mindset-concept_101179-880.jpg)
+***about me***
+**my name is mohmmad altaji im from palestine live in jordan amman**
+
+https://github.com/moetaji
