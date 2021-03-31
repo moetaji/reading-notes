@@ -20,8 +20,10 @@ to make the link open in new window in the open a tag after the href path we typ
 - absolute position:the element take out of normal flow and not affects the position o other element
 
 ------------------------------------------
+
 <h1>z-index</h1>
 <p>this property  we used to control the element sits on top elements overlapping, the higher the value the closer that element to the front
+
 --------------------------------------------
 
 <h1>Functions and Method</h1>
